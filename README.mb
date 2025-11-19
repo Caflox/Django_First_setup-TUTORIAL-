@@ -1,0 +1,16 @@
+Django Learning Project
+
+This project serves as a practice environment while learning Django.
+New features will be added progressively as I continue learning (new models, endpoints, ORM usage, views, migrations, and more).
+
+Currently includes:
+
+basic Django project structure
+
+first model (Subject)
+
+CRUD endpoints (GET, POST, PUT, DELETE)
+
+Django ORM and JSON response handling
+
+The project will be continuously expanded with additional models and functionality.
